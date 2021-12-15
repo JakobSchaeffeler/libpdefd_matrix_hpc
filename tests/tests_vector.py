@@ -16,9 +16,6 @@ sys.path.append(path)
 import backend
 import libpdefd_vector_array
 
-
-from memory_profiler import profile
-
 from ctypes import *
 
 """
