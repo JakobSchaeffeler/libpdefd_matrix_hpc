@@ -7,7 +7,7 @@
 
 ## Initial Setup
 1. run ./install\_anaconda.sh
-2. run ./setup\_python.sh
+2. run ./python\_setup.sh
 3. run source python\_venv\_anaconda\_*name*
 4. run ./compile\_cython\_versions.sh
 
